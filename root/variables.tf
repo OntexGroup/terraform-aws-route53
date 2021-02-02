@@ -1,4 +1,3 @@
-variable "env" {}
 
 variable "aws" {
   type    = any
